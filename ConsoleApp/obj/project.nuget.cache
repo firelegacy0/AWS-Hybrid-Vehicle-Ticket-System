@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTCdSDgkmrc6IjOydcD9TAMYn3UYf9JDUYt6WVdbTGbdjTP2ZGlBISDDo1jGYcBnpnxS+PQP4XJmpG3AsEFfaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarrel\\source\\repos\\TrafficViolation\\TrafficViolation\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.textract\\3.7.5.18\\awssdk.textract.3.7.5.18.nupkg.sha512"
+  ],
+  "logs": []
+}

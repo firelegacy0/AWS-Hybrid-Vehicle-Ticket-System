@@ -1,0 +1,9 @@
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.deps.json
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.runtimeconfig.json
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.pdb
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.SQS.dll
+C:\Users\Jason\source\repos\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.dll

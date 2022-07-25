@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yc/hsC1pxprWCvauunNhylmzQ/OPv3j6TGT4038UrdeKD6LwLZ6Xyvwsa9BfWUYsvJXSOhQqIlvGPAjoUBNxxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarrel\\source\\repos\\TrafficViolation\\TrafficViolation\\TicketProcessingFunction\\TicketProcessingFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarrel\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\amazon.lambda.sqsevents\\2.1.0\\amazon.lambda.sqsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.simpleemail\\3.7.0.167\\awssdk.simpleemail.3.7.0.167.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.sqs\\3.7.2.64\\awssdk.sqs.3.7.2.64.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

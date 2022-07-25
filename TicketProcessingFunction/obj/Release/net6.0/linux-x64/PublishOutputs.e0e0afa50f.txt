@@ -1,0 +1,10 @@
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.deps.json
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.runtimeconfig.json
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.pdb
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.SimpleEmail.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.SQS.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.dll

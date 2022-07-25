@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUzxifboODyOA54qaPGDcnd7uzbL49Ao77iCaaWCNRm+Wj/uWDx511SD5VsTss2y9SRiAlZn8V6aLL9H/EtEMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarrel\\source\\repos\\TrafficViolation\\TrafficViolation\\UploadData\\UploadData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\Jarrel\\.nuget\\packages\\awssdk.s3\\3.7.9.11\\awssdk.s3.3.7.9.11.nupkg.sha512"
+  ],
+  "logs": []
+}

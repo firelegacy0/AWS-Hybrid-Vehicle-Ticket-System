@@ -1,0 +1,17 @@
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.exe
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.deps.json
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.runtimeconfig.json
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.runtimeconfig.dev.json
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\UploadData.pdb
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.csproj.AssemblyReference.cache
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.AssemblyInfoInputs.cache
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.AssemblyInfo.cs
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.csproj.CoreCompileInputs.cache
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.csproj.CopyComplete
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.dll
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.pdb
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\UploadData\obj\Debug\netcoreapp3.1\UploadData.genruntimeconfig.cache

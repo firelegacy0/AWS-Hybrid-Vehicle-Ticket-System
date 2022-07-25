@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\PlateReaderFunction.deps.json
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\PlateReaderFunction.runtimeconfig.json
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\PlateReaderFunction.pdb
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\AWSSDK.SQS.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\AWSSDK.Textract.dll
+C:\Users\Jason\source\repos\TrafficViolation\PlateReaderFunction\bin\Release\net6.0\publish\PlateReaderFunction.dll

@@ -1,0 +1,130 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/linux-x64": {
+      "TicketProcessingFunction/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SQS": "3.7.2.64",
+          "AWSSDK.SimpleEmail": "3.7.0.167",
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.SQSEvents": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.0"
+        },
+        "runtime": {
+          "TicketProcessingFunction.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.SQSEvents/2.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.SQSEvents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.11.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.11"
+          }
+        }
+      },
+      "AWSSDK.SimpleEmail/3.7.0.167": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleEmail.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.167"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.7.2.64": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.2.64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketProcessingFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qgFCDJp5lyUNqCq1z18U7fZ/+rmMyw6RJf9nKfnJrf79YupDj02klQAjxymEYN66NykWXyc68SGkow6fy53hfg==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.SQSEvents/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a1xaCIuXDleJ8iRE3vHWWhtPqUiURmoQUS68INMEQmtfHr4wTz837TQZONo4cyubv5sZj78DDrYessZEzgFRGQ==",
+      "path": "amazon.lambda.sqsevents/2.1.0",
+      "hashPath": "amazon.lambda.sqsevents.2.1.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.11.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6yJ0ZIe92/LtDGn1npRSJw+J5N7grlPFucAcv9D6z6Cj9QSFRbh68WlL5vxTezWKA2IqgNhev9fpbIiHz9QzHA==",
+      "path": "awssdk.core/3.7.11.11",
+      "hashPath": "awssdk.core.3.7.11.11.nupkg.sha512"
+    },
+    "AWSSDK.SimpleEmail/3.7.0.167": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MijuQOcJAz7D/c7kclIZptIX2RxR9gGAByoGzLECRajdBLUQThcaOUETpMjuiTJprcNhiZs7lR3VOq8Q2zhFRw==",
+      "path": "awssdk.simpleemail/3.7.0.167",
+      "hashPath": "awssdk.simpleemail.3.7.0.167.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.7.2.64": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EZB2Kxlv445fYHDM8BBc7BKgfi9Br7RMgTQx0zFYuP7xU2iBAsll0yNR08A5uVHGNVWjWsPRTrnKWZDm/CIUpw==",
+      "path": "awssdk.sqs/3.7.2.64",
+      "hashPath": "awssdk.sqs.3.7.2.64.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.csproj.AssemblyReference.cache
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.AssemblyInfoInputs.cache
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.AssemblyInfo.cs
+C:\Users\Jarrel\source\repos\TrafficViolation\TrafficViolation\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.csproj.CoreCompileInputs.cache

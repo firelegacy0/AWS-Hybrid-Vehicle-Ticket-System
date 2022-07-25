@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11",
+          "AWSSDK.Textract": "3.7.5.18"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.11"
+          }
+        }
+      },
+      "AWSSDK.Textract/3.7.5.18": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Textract.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.18"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.11.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6yJ0ZIe92/LtDGn1npRSJw+J5N7grlPFucAcv9D6z6Cj9QSFRbh68WlL5vxTezWKA2IqgNhev9fpbIiHz9QzHA==",
+      "path": "awssdk.core/3.7.11.11",
+      "hashPath": "awssdk.core.3.7.11.11.nupkg.sha512"
+    },
+    "AWSSDK.Textract/3.7.5.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0HzcqiuUe8l/OUgRhu5sElPR5jayE4K5pXZtL512J62AZNWoK7L+SoyunjeSktQd7FAnuSU9DoPIVQh33xF/EA==",
+      "path": "awssdk.textract/3.7.5.18",
+      "hashPath": "awssdk.textract.3.7.5.18.nupkg.sha512"
+    }
+  }
+}
