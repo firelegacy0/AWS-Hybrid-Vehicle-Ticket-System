@@ -17,7 +17,7 @@ This project uses a Hybrid Architecture (local database XML file) and Serverless
 - DMVService queries the local database XML file for vehicle information, then sends it to UpwardQueue
 - A Lambda Function (TicketProcessingFunction) processes information from UpwardQueue, formulates the final message and notify user via AWS SES
 
-### Note: License Plates used are fictional
+##### Note: License Plates used are fictional
 
 ## System Workflow Diagram of Project
 ![system workflow diagram](https://user-images.githubusercontent.com/55813746/180680184-9e4e3e9c-5885-470b-a489-e25f1a19951d.jpg)
