@@ -10,11 +10,11 @@ This is a 2 member group-based hybrid cloud project from Cloud Computing class.
 This project uses a Hybrid Architecture (local database XML file) and Serverless Architecture to process information. 
 
 ## Use-Case Flow
-- An image is sent to S3 Bucket
+- A vehicle license plate image is sent to S3 Bucket
 - A Lambda Function (PlateReaderFunction) processes the image and check if it's California plate or not, then extracts the information
-- Information is sent to DownwardQueue
+- Information is sent to an SQS DownwardQueue
 - A Windows Worker Service (DMVService) is constantly running in background that polls the DownwardQueue for new incoming messages
-- DMVService queries the local database XML file for vehicle information, then sends it to UpwardQueue
+- DMVService queries the local database XML file for vehicle information, then sends it to an SQS UpwardQueue
 - A Lambda Function (TicketProcessingFunction) processes information from UpwardQueue, formulates the final message and notify user via AWS SES
 
 ##### Note: License Plates and Vehicle Owners used are fictional
