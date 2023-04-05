@@ -7,10 +7,10 @@ This is a 2 member group-based hybrid cloud project from Cloud Computing class.
 - AWS Cloud Services (S3, Lambda, SQS, SES)
 - Windows Worker Service
 
-This project uses a Hybrid Architecture (local database XML file) and Serverless Architecture to process information. 
+This project uses a Hybrid Architecture (local database XML file) and Serverless Architecture (AWS Lambda etc. ) to automate the process of extracting license plate information and then notify a user of the traffic charges associated. 
 
 ## Use-Case Flow
-- A vehicle license plate image is sent to S3 Bucket
+- A vehicle license plate image is uploaded to S3 Bucket manually
 - First Lambda Function (PlateReaderFunction) processes the image and check if it's California plate or not, then extracts the information
 - Information is sent to a SQS DownwardQueue
 - A Windows Worker Service (DMVService) is constantly running in background in a machine that polls the DownwardQueue for new incoming messages
